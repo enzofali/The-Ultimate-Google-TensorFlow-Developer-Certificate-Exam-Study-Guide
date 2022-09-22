@@ -12,13 +12,13 @@ Consider the [Tensorflow Certification Study Guide](https://github.com/nicholasj
 Before moving on to Deep Learning, there are some basic concepts you should manage with ease. First, you need to achieve the minimum understanding of Mathematics (Multivariable Calculus, Linear Algebra, and Probability and Statistics). On the other hand, you need to have strong Python programming skills. Below are the recommended materials to achieve the necessary knowledge in these areas.
 
 Math Courses:
-[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning#courses)
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics)
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning#courses)
+- [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics)
 
 Programing with Python Courses:
-[Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
-[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming#courses)
-[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/psets/0/) (free resource)
+- [Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
+- [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming#courses)
+- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/psets/0/) (free resource)
 
 Now that you have achieved the minimum knowledge requirements, let's jump to the 🌶️ things. 
 
