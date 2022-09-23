@@ -118,6 +118,13 @@ hice otro repo con los resourses
 
 ## Usefull Tips and Tricks
 
+At this point, we have already covered almost all of the exam topics that you need to know. However, in this section, complementary material will be developed and, as in previous, we will indicate with ⭐ **the must review** resources.
+
+---------------------------------------------------Developing-----------------------------------------------------------------------------------------
+
+muy importante usar esta guia para saber que tenemos el conocimiento necesarioa para salvar el examen, una vez que hallamos completado la check list en toda su completitud estaremos prontos para dar el examen
+- [Certificate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf) ⭐
+
 pagina oficial de la certificacion, aqui se encuentra toda la informacion relevante con respecto al examen. 
 - [TensorFlow Certificate Home](https://www.tensorflow.org/certificate)
 
@@ -125,9 +132,7 @@ hacel el set up previo al examen y correr los modelos locamente con las versione
 - [Environment Setup:](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf?authuser=4) Exam takes place in a PyCharm environment. 
 
 PyCharm 2021.3 (either PyCharm Professional or PyCharm Community Edition)
-
 Python 3.8.0 
-
 tensorflow==2.9.0
 tensorflow-datasets==4.6.0
 Pillow==9.1.1
@@ -135,16 +140,18 @@ pandas==1.4.2
 numpy==1.22.4
 scipy==1.7.3
 
-muy importante usar esta guia para saber que tenemos el conocimiento necesarioa para salvar el examen, una vez que hallamos completado la check list en toda su completitud estaremos prontos para dar el examen
-- [Certificate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf) ⭐
 
-5 horas
+El examen dura 5 horas
+
 Sabes a tiempo real el resultado
-el minimo puntaje por ejercicio es de 3
-es decir si nuestro punteje es de 5,5,5,5,2 perdemos el examen 
-los ejercicios son incrementales en dificultas (empezar por el ultimo) y supuestamente tienen una ponderacion d epeso en la nota en funcion de su dificultad
+
+el minimo puntaje por ejercicio es de 3, es decir si nuestro punteje es de [5,5,5,5,2] perdemos el examen.
+
+los ejercicios son incrementales en dificultas (empezar por el ultimo)
+
 se sube solo el modelo guardado localemtne, se puede entrenar en colab bajar el modelo y subirlo
-esoecial cuidado en la dimensionalidad del output del modelo, puede ser que el mismo entrene localmente, pero si el modelo no poseee la dimensionalidad del output como especifica cada ejercicio, el coso no los podra evaluar
+
+esoecial cuidado en la dimensionalidad del output del modelo, puede ser que el mismo entrene localmente, pero si el modelo no poseee la dimensionalidad del output como especifica cada ejercicio, el sistema no los podra evaluar
 
 ## FAQs
 Please PR the repo for FAQs
