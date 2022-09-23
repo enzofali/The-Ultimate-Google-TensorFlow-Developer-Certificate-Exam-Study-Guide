@@ -91,16 +91,9 @@ Finally, the ⭐ indicates the highly recommended notebooks to review before tak
 
 At this point, we have already covered almost all of the exam topics that you need to know. However, in this section, complementary material will be developed and, as in previous, we will indicate with ⭐ **the must review** resources.
 
---------------------------------------------------------**Developing**-----------------------------------------------------------------------------------------
-https://www.tensorflow.org/learn
+Let's start with the most generic material. The official TensorFlow guide ([Introduction to TensorFlow](https://www.tensorflow.org/learn)) provided by Google gives all the necessary information and presents much more content. Although if we consider all its content, it far exceeded the certification issues, it is always good to have it at hand. 
 
-https://www.tensorflow.org/overview
-
-el curso no da nada de multivariate time series y n steps forcasting, (guia de TF)
-
-hice otro repo con los resourses
-
-[My Material](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-)
+Next, the content of another of my repositories is presented. The [TensorFlow Developer Certificate Material](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-) repo contains the material that I made while studying for the TensorFlow Developer Certification, which covers everything given in the Coursera Tensorflow Developer Certificate and adds a Multi-Variate Time Series Forecasting notebook. I hope you enjoy the content and find it useful.
 
 ### Convolutional Neural Network
 - [Convolutional Neural Network for Binary Classification](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Convolutional%20Neural%20Network/1_BinaryCNN.ipynb)
@@ -118,6 +111,9 @@ hice otro repo con los resourses
 - [Conv1D for Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/2_TimeSeriesConv1D.ipynb)
 - [Time Series Forcasting from CSV](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/3_TimeSeriesCSV.ipynb)
 - [N Steps Multi-Variate Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/4_Multi-VariateTimeSeries.ipynb) ⭐
+
+
+--------------------------------------------------------**Developing**-----------------------------------------------------------------------------------------
 
 ## Usefull Tips and Tricks
 
