@@ -120,7 +120,7 @@ To begin with, the Certificate Handbook is the most remarkable material in this 
 
 - [Certificate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf) ⭐
 
-To consult all the relevant information regarding the exam, we can resort to the official page of the Certification.
+To consult all the relevant information regarding the exam, you can resort to the official page of the Certification.
 
 - [TensorFlow Certificate Home](https://www.tensorflow.org/certificate)
 
@@ -136,21 +136,20 @@ The exam takes place in a PyCharm environment. Therefore is important to do the 
 - numpy==1.22.4
 - scipy==1.7.3
 
-------------------------------------------------------**Developing**--------------------------------------------------------------
+The exam lasts 5 hours and has a total of 5 exercises where the exercises are incremental in difficulty. The first exercise (Number 1) is the easiest, and the last (Number 5) is the hardest.
 
-El examen dura 5 horas
+In turn, the minimum score per exercise is 3/5, so if any score is below 3, we will lose the exam. The scores are available in real-time, so we will know how are you doing in the exam before handing it in.
 
-Sabes a tiempo real el resultado
+The exam only evaluates the saved model (model.h5) where, based on the model, it performs forecasting and, based on the metrics achieved in its test data set, assigns a result. Therefore it is possible to train and download the model in Google Colab as long as you upload the train and test data.
 
-El minimo puntaje por ejercicio es de 3, es decir si nuestro punteje es de [5,5,5,5,2] perdemos el examen.
+From the above, we can highlight two things. 
 
-Los ejercicios son incrementales en dificultad (se recomienda empezar por el ultimo)
+- First, the exam score is subject to randomness. So it is possible to obtain a good score having a bad model that makes good predictions in the evaluating sub set data.
+- Second, using Google Colab and your computer is possible to train two models from different exercises at the same time. With which can save dead time spent on training the models.
 
-Se sube solo el modelo guardado (model.h5), se puede entrenar en colab bajar el modelo y subirlo
+Must take special care in the dimensionality of the model's output. It may be that it trains locally, but if it does not have the specified dimensionality by each exercise, the system will not be able to evaluate it.
 
-Entrenar en simultaneo, y cambiar de ejercicio mientras se entrena el modelo de otro ejercicio
-
-Especial cuidado en la dimensionalidad del output del modelo, puede ser que el mismo entrene localmente, pero si el modelo no posee la dimensionalidad del output como especifica cada ejercicio, el sistema no los podra evaluar
+Finally, the model cannot be excessively large, if so, the system will not evaluate it.
 
 ## FAQs
 Please PR the repo for more FAQs
