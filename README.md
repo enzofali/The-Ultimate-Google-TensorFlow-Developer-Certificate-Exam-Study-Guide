@@ -89,11 +89,14 @@ Finally, the ⭐ indicates the highly recommended notebooks to review before tak
 
 ## More Study Resourse
 
+At this point, we have already covered almost all of the exam topics that you need to know. However, in this section, complementary material will be developed and, as in previous, we will indicate with ⭐ **the must review** resources.
+
+--------------------------------------------------------**Developing**-----------------------------------------------------------------------------------------
 https://www.tensorflow.org/learn
 
 https://www.tensorflow.org/overview
 
-el curso no da nada de multivariate time serias y n steps forcasting, (guia de TF)
+el curso no da nada de multivariate time series y n steps forcasting, (guia de TF)
 
 hice otro repo con los resourses
 
@@ -114,13 +117,9 @@ hice otro repo con los resourses
 - [LSTM for Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/1_TimeSeriesLSTM.ipynb)
 - [Conv1D for Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/2_TimeSeriesConv1D.ipynb)
 - [Time Series Forcasting from CSV](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/3_TimeSeriesCSV.ipynb)
-- [N Steps Multi-Variate Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/4_Multi-VariateTimeSeries.ipynb)
+- [N Steps Multi-Variate Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/4_Multi-VariateTimeSeries.ipynb) ⭐
 
 ## Usefull Tips and Tricks
-
-At this point, we have already covered almost all of the exam topics that you need to know. However, in this section, complementary material will be developed and, as in previous, we will indicate with ⭐ **the must review** resources.
-
----------------------------------------------------Developing-----------------------------------------------------------------------------------------
 
 muy importante usar esta guia para saber que tenemos el conocimiento necesarioa para salvar el examen, una vez que hallamos completado la check list en toda su completitud estaremos prontos para dar el examen
 - [Certificate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf) ⭐
