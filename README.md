@@ -142,13 +142,15 @@ El examen dura 5 horas
 
 Sabes a tiempo real el resultado
 
-el minimo puntaje por ejercicio es de 3, es decir si nuestro punteje es de [5,5,5,5,2] perdemos el examen.
+El minimo puntaje por ejercicio es de 3, es decir si nuestro punteje es de [5,5,5,5,2] perdemos el examen.
 
-los ejercicios son incrementales en dificultas (empezar por el ultimo)
+Los ejercicios son incrementales en dificultad (se recomienda empezar por el ultimo)
 
-se sube solo el modelo guardado localemtne, se puede entrenar en colab bajar el modelo y subirlo
+Se sube solo el modelo guardado (model.h5), se puede entrenar en colab bajar el modelo y subirlo
 
-esoecial cuidado en la dimensionalidad del output del modelo, puede ser que el mismo entrene localmente, pero si el modelo no poseee la dimensionalidad del output como especifica cada ejercicio, el sistema no los podra evaluar
+Entrenar en simultaneo, y cambiar de ejercicio mientras se entrena el modelo de otro ejercicio
+
+Especial cuidado en la dimensionalidad del output del modelo, puede ser que el mismo entrene localmente, pero si el modelo no posee la dimensionalidad del output como especifica cada ejercicio, el sistema no los podra evaluar
 
 ## FAQs
-Please PR the repo for FAQs
+Please PR the repo for more FAQs
