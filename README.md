@@ -116,7 +116,7 @@ Next, the content of another of my repositories is presented. The [TensorFlow De
 
 Finally, this section presents a series of recommendations that are useful to know before taking the exam.
 
-To begin with, the Certificate Handbook is the most remarkable material in this section. It is important to read it in its entirety and fully complete the **Skills Checklist**.
+To begin with, the Certificate Handbook is the most remarkable material in this section. It is important to read it in its entirety and **fully complete** the **Skills Checklist**.
 
 - [Certificate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf) ⭐
 
