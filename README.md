@@ -126,7 +126,7 @@ To consult all the relevant information regarding the exam, we can resort to the
 
 The exam takes place in a PyCharm environment. Therefore is important to do the setup prior to the test and run the models locally with the corresponding versions specified below.
 
-- [Environment Setup:](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf?authuser=4)  
+[Environment Setup:](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf?authuser=4)  
 - PyCharm 2021.3 (either PyCharm Professional or PyCharm Community Edition)
 - Python 3.8.0 
 - tensorflow==2.9.0
