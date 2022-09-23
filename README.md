@@ -111,19 +111,18 @@ Next, the content of another of my repositories is presented. The [TensorFlow De
 - [Conv1D for Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/2_TimeSeriesConv1D.ipynb)
 - [Time Series Forcasting from CSV](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/3_TimeSeriesCSV.ipynb)
 - [N Steps Multi-Variate Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/4_Multi-VariateTimeSeries.ipynb) ⭐
-
+- 
+## Usefull Tips and Tricks
 
 --------------------------------------------------------**Developing**-----------------------------------------------------------------------------------------
 
-## Usefull Tips and Tricks
-
-muy importante usar esta guia para saber que tenemos el conocimiento necesarioa para salvar el examen, una vez que hallamos completado la check list en toda su completitud estaremos prontos para dar el examen
+muy importante usar esta guia para saber que tenemos el conocimiento necesario para salvar el examen, una vez que hallamos completado la check list  estaremos prontos para dar el examen
 - [Certificate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf) ⭐
 
 pagina oficial de la certificacion, aqui se encuentra toda la informacion relevante con respecto al examen. 
 - [TensorFlow Certificate Home](https://www.tensorflow.org/certificate)
 
-hacel el set up previo al examen y correr los modelos locamente con las versioner de pycharm tensorflow, numpy yt pandas especificadas. 
+hacer el set up previo al examen y correr los modelos locamente con las versioner de pycharm tensorflow, numpy y pandas especificadas. 
 - [Environment Setup:](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf?authuser=4) Exam takes place in a PyCharm environment. 
 
 PyCharm 2021.3 (either PyCharm Professional or PyCharm Community Edition)
