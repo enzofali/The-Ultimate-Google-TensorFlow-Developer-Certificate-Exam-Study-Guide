@@ -114,26 +114,29 @@ Next, the content of another of my repositories is presented. The [TensorFlow De
 
 ## Usefull Tips and Tricks
 
---------------------------------------------------------**Developing**-----------------------------------------------------------------------------------------
+Finally, this section presents a series of recommendations that are useful to know before taking the exam.
 
-muy importante usar esta guia para saber que tenemos el conocimiento necesario para salvar el examen, una vez que hallamos completado la check list  estaremos prontos para dar el examen
+To begin with, the Certificate Handbook is the most remarkable material in this section. It is important to read it in its entirety and fully complete the **Skills Checklist**.
+
 - [Certificate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf) ⭐
 
-pagina oficial de la certificacion, aqui se encuentra toda la informacion relevante con respecto al examen. 
+To consult all the relevant information regarding the exam, we can resort to the official page of the Certification.
+
 - [TensorFlow Certificate Home](https://www.tensorflow.org/certificate)
 
-hacer el set up previo al examen y correr los modelos locamente con las versioner de pycharm tensorflow, numpy y pandas especificadas. 
-- [Environment Setup:](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf?authuser=4) Exam takes place in a PyCharm environment. 
+The exam takes place in a PyCharm environment. Therefore is important to do the setup prior to the test and run the models locally with the corresponding versions specified below.
 
-PyCharm 2021.3 (either PyCharm Professional or PyCharm Community Edition)
-Python 3.8.0 
-tensorflow==2.9.0
-tensorflow-datasets==4.6.0
-Pillow==9.1.1
-pandas==1.4.2
-numpy==1.22.4
-scipy==1.7.3
+- [Environment Setup:](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf?authuser=4)  
+- PyCharm 2021.3 (either PyCharm Professional or PyCharm Community Edition)
+- Python 3.8.0 
+- tensorflow==2.9.0
+- tensorflow-datasets==4.6.0
+- Pillow==9.1.1
+- pandas==1.4.2
+- numpy==1.22.4
+- scipy==1.7.3
 
+------------------------------------------------------**Developing**--------------------------------------------------------------
 
 El examen dura 5 horas
 
