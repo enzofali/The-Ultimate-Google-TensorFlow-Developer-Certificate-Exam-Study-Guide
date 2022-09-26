@@ -138,7 +138,7 @@ The exam takes place in a PyCharm environment. Therefore is important to do the 
 
 The exam lasts 5 hours and has a total of 5 exercises where the exercises are incremental in difficulty. The first exercise (Number 1) is the easiest, and the last (Number 5) is the hardest.
 
-In turn, the minimum score per exercise is 3/5, so if any score is below 3, we will lose the exam. The scores are available in real-time, so we will know how are you doing in the exam before handing it in.
+In turn, the minimum score per exercise is 3/5, so if any score is below 3, we will lose the exam. The scores are available in real-time, so you will know how are you doing in the exam before handing it in.
 
 The exam only evaluates the saved model (model.h5) where, based on the model, it performs forecasting and, based on the metrics achieved in its test data set, assigns a result. Therefore it is possible to train and download the model in Google Colab as long as you upload the train and test data.
 
