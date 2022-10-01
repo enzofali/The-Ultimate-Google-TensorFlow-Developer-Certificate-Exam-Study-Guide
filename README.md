@@ -138,18 +138,18 @@ The exam takes place in a PyCharm environment. Therefore is important to do the 
 
 The exam lasts 5 hours and has a total of 5 exercises where the exercises are incremental in difficulty. The first exercise (Number 1) is the easiest, and the last (Number 5) is the hardest.
 
-In turn, the minimum score per exercise is 3/5, so if any score is below 3, we will lose the exam. The scores are available in real-time, so you will know how are you doing in the exam before handing it in.
+In turn, the minimum score per exercise to pass the exam is 3/5, so beware if any score is below 3. The scores are available in real-time, so you will know how your exam score before handing it in.
 
-The exam only evaluates the saved model (model.h5) where, based on the model, it performs forecasting and, based on the metrics achieved in its test data set, assigns a result. Therefore it is possible to train and download the model in Google Colab as long as you upload the train and test data.
+The exam only evaluates the saved model (model.h5) where, based on the model, it performs forecasting and, based on the metrics achieved in its test data set, assigns a result. Therefore it is possible to train and download the model in Google Colab as long as you upload the train and test data to Colab.
 
 From the above, we can highlight two things. 
 
 - First, the exam score is subject to randomness. So it is possible to obtain a good score having a bad model that makes good predictions in the evaluating sub set data.
-- Second, using Google Colab and your computer is possible to train two models from different exercises at the same time. With which can save dead time spent on training the models.
+- Second, using Google Colab and your computer is possible to train two models from different exercises at the same time, optimizing the time spent on the model's training.
 
 Must take special care in the dimensionality of the model's output. It may be that it trains locally, but if it does not have the specified dimensionality by each exercise, the system will not be able to evaluate it.
 
-Finally, the model cannot be excessively large, if so, the system will not evaluate it.
+Finally, the model cannot be excessively large. If so, the system will not evaluate it.
 
 ## FAQs
 Please PR the repo for more FAQs
