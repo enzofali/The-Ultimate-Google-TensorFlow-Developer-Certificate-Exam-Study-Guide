@@ -112,7 +112,7 @@ Next, the content of another of my repositories is presented. The [TensorFlow De
 - [Time Series Forcasting from CSV](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/3_TimeSeriesCSV.ipynb)
 - [N Steps Multi-Variate Time Series Forcasting](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Time%20Series%20Forecasting/4_Multi-VariateTimeSeries.ipynb) [(Time Series Forecasting Tutorial)](https://www.tensorflow.org/tutorials/structured_data/time_series)⭐
 
-## Usefull Tips and Tricks
+## Useful Tips and Tricks
 
 Finally, this section presents a series of recommendations that are useful to know before taking the exam.
 
