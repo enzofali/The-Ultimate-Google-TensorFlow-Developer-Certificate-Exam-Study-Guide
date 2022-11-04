@@ -1,10 +1,10 @@
 # The Ultimate Google TensorFlow Developer Certificate Study Guide
 
-The purpose of this repository is to detail the necessary resources to pass the TensorFlow Developer Certificate in the shortest time possible, minimizing the effort required by centralizing relevant information. You will find study material, course references, and notebooks examples. Keep in mind that the specified resources aren't free, so by following this guide, you must have a minimum budget. Let's begin!
+The purpose of this repository is to detail the necessary resources to pass the TensorFlow Developer Certificate in the shortest time possible, minimizing the effort required by centralizing relevant information. You will find study materials, course references, and notebooks examples. Keep in mind that the specified resources aren't free, so by following this guide, you must have a minimum budget. Let's begin!
 
 ## Honorable Mentions
 
-Consider the [Tensorflow Certification Study Guide](https://github.com/nicholasjhana/tensorflow-certification-study-guide#tensorflow-certification-study-guide) laid the foundation for this repository. That repo is excellent and includes more information and available material.
+Consider the [Tensorflow Certification Study Guide](https://github.com/nicholasjhana/tensorflow-certification-study-guide#tensorflow-certification-study-guide) laid the foundation for this repository. That repo is excellent and includes more information and available materials.
 
 ## Required Knowledge
 
@@ -26,7 +26,7 @@ First of all, even though it is not necessary to know about Machine Learning to 
 
 1. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) (opcional)
 
-Now, the following specializations are *essential* to obtain the certification. The Deep Learning Specialization and The Tensorflow Developer Specialization are indeed complementary. The Deep Learning Specialization develops all the necessary concepts by adopting a more theoretical approach. While the Tensorflow Developer Specialization adopts a more practical and applied approach, applying everything learned in the previous specialization and putting hands into practice.
+Now, the following specializations are *essential* to obtain the certificate. The Deep Learning Specialization and The Tensorflow Developer Specialization are indeed complementary. The Deep Learning Specialization develops all the necessary concepts by adopting a more theoretical approach. While the Tensorflow Developer Specialization adopts a more practical and applied approach, applying everything learned in the previous specialization and putting hands into practice.
 
 2. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
@@ -34,7 +34,7 @@ Now, the following specializations are *essential* to obtain the certification. 
 
 #### Deeper Dive into Tensorflow Developer Certificate Specialization
 
-We will be particularly interested in further developing the material given in this specialization. That is because the Google TensorFlow Developer Certification exam forms its bases on this specialization, so completing it is crucial. All the material listed below is available in the Deep Learning AI public repo: [DeepLearning.AI TensorFlow Developer Public Repo](https://github.com/https-deeplearning-ai/tensorflow-1-public). Below you can see all the notebooks given in the courses, excluding their weekly assignments, which are a good practice resource for exam preparation.
+We will be particularly interested in further developing the material given in this specialization. That is because the Google TensorFlow Developer Certification exam is based on this specialization, so completing it is crucial. All the material listed below is available in the Deep Learning AI public repo: [DeepLearning.AI TensorFlow Developer Public Repo](https://github.com/https-deeplearning-ai/tensorflow-1-public). Below you can see all the notebooks given in the courses, excluding their weekly assignments, which are a good practice resource for exam preparation.
 
 Finally, the ⭐ indicates the **highly recommended** notebooks to review before taking the exam. Try to focus on implementing and writing the models on your own, tuning the hyperparameters, and enhancing the model predictions with the corresponding datasets, like manually defining the learning rate decay. These notebooks are a faithful representation of how the exam exercises are developed, so it's important to achieve good results in their corresponding metrics.
 
@@ -87,11 +87,11 @@ Finally, the ⭐ indicates the **highly recommended** notebooks to review before
 - [Predicting Sunspots with Neural Networks (DNN only)](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_2_Sunspots_DNN.ipynb)
 - [Predicting Sunspots with Neural Networks](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_3_Sunspots_CNN_RNN_DNN.ipynb) ⭐
 
-## More Study Resourse
+## More Study Resource
 
-At this point, we have already covered almost all of the exam topics that you need to know. However, in this section, complementary material will be developed and, as in previous, we will indicate with ⭐ **the must review** resources.
+At this point, we have already covered almost all of the exam topics that you need to know. However, in this section, complementary materials will be developed and, as in previous, we will indicate with ⭐ **the must review** resources.
 
-Let's start with the most generic material. The official TensorFlow guide ([Introduction to TensorFlow](https://www.tensorflow.org/learn)) provided by Google gives all the necessary information and presents much more content. Although if we consider all its content, it far exceeded the certification issues, it is always good to have it at hand. 
+Let's start with the most generic material. The official TensorFlow guide ([Introduction to TensorFlow](https://www.tensorflow.org/learn)) provided by Google gives all the necessary information and presents much more content. Although if we consider all its content, it far exceeds the certification issues, it is always good to have it at hand. 
 
 Next, the content of another of my repositories is presented. The [TensorFlow Developer Certificate Material](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-) repo contains the material that I made while studying for the TensorFlow Developer Certification, which covers everything given in the Coursera Tensorflow Developer Certificate and adds a Multi-Variate Time Series Forecasting notebook. I hope you enjoy the content and find it useful.
 
@@ -124,7 +124,7 @@ To consult all the relevant information regarding the exam, you can resort to th
 
 - [TensorFlow Certificate Home](https://www.tensorflow.org/certificate)
 
-The exam takes place in a PyCharm environment. Therefore is important to do the setup prior to the test and run the models locally with the corresponding versions specified below.
+The exam takes place in a PyCharm environment. Therefore, it is important to do the setup prior to the test and run the models locally with the corresponding versions specified below.
 
 [Environment Setup:](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf?authuser=4)  
 - [PyCharm 2021.3](https://www.jetbrains.com/pycharm/download/other.html) (either PyCharm Professional or PyCharm Community Edition)
@@ -138,16 +138,16 @@ The exam takes place in a PyCharm environment. Therefore is important to do the 
 
 The exam lasts 5 hours and has a total of 5 exercises where the exercises are incremental in difficulty. The first exercise (Number 1) is the easiest, and the last (Number 5) is the hardest.
 
-In turn, the minimum score per exercise to pass the exam is 3/5, so beware if any score is below 3. The scores are available in real-time, so you will know how your exam score before handing it in.
+In turn, the minimum score per exercise to pass the exam is 3/5, so beware if any score is below 3. The scores are available in real-time, so you will know your exam score before handing it in.
 
-The exam only evaluates the saved model (model.h5) where, based on the model, it performs forecasting and, based on the metrics achieved in its test data set, assigns a result. Therefore it is possible to train and download the model in Google Colab as long as you upload the train and test data to Colab.
+The exam only evaluates the saved model (model.h5) where, based on the model, it performs forecasting and, based on the metrics achieved in its test data set, assigns a result. Therefore, it is possible to train and download the model in Google Colab as long as you upload the train and test data to Colab.
 
 From the above, we can highlight two things. 
 
-- First, the exam score is subject to randomness. So it is possible to obtain a good score having a bad model that makes good predictions in the evaluating sub set data.
-- Second, using Google Colab and your computer is possible to train two models from different exercises at the same time, optimizing the time spent on the model's training.
+- First, the exam score is subject to randomness. So it is possible to obtain a good score by having a bad model that makes good predictions in the evaluating subset of data.
+- Second, using Google Colab and your computer, it is possible to train two models from different exercises at the same time, optimizing the time spent on the model's training.
 
-Must take special care in the dimensionality of the model's output. It may be that it trains locally, but if it does not have the specified dimensionality by each exercise, the system will not be able to evaluate it.
+You must take special care of the dimensionality of the model's output. It may be that it trains locally, but if it does not have the specified dimensionality for each exercise, the system will not be able to evaluate it.
 
 Finally, the model cannot be excessively large. If so, the system will not evaluate it.
 
