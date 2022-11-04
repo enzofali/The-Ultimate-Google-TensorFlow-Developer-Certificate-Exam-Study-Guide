@@ -1,6 +1,6 @@
 # The Ultimate Google TensorFlow Developer Certificate Study Guide
 
-The purpose of this repository is to detail the necessary resources to pass the TensorFlow Developer Certificate in the shortest time possible, minimizing the effort required by centralizing relevant information. You will find study materials, course references, and notebooks examples. Keep in mind that the specified resources aren't free, so by following this guide, you must have a minimum budget. Let's begin!
+The objective of this repository is to detail the necessary resources to pass the TensorFlow Developer Certificate in the shortest time possible, minimizing the effort required by centralizing relevant information. You will find study materials, course references, and notebooks examples. Keep in mind that the specified resources aren't free, so by following this guide, you must have a minimum budget. Let's begin!
 
 ## Honorable Mentions
 
