@@ -14,6 +14,7 @@ Before moving on to Deep Learning, there are some basic concepts you should mana
 Math Courses:
 - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning#courses)
 - [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics)
+- [Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?utm_campaign=websitecourses-m4ml-navbutton&utm_medium=institutions&utm_source=deeplearning-ai)
 
 Programing with Python Courses:
 - [Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
